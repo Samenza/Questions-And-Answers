@@ -1,0 +1,9 @@
+.test {
+  margin-right: 20px;
+}
+.btnMinimize {
+  border-radius: 80%;
+  height: 30px;
+  width: 30px;
+  color: rgb(255, 83, 212);
+}
